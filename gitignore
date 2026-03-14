@@ -1,0 +1,16 @@
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Data folders
+/data/
+/dataset/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Logs
+/logs/
+*.log
